@@ -1,0 +1,52 @@
+EMPATHISE RESEARCH FIELD KIT
+
+BEFORE RECRUITMENT
+Project name and owner:
+Audience track and goal from the existing eight-question intake:
+Challenge boundaries and decisions this research may inform:
+Stakeholder groups, target participants and recruitment constraints:
+Critical assumptions and evidence needed to challenge each:
+Excluded groups and consequence of exclusion:
+Retention date, deletion owner and participant withdrawal contact:
+
+PARTICIPANT OPENING SCRIPT
+We are exploring [topic] to understand recent experiences. This is not a sales call
+or a test of your performance. You can skip questions or stop at any time.
+With your permission, we will [take notes / record] and use [describe intended use].
+Access will be limited to [people], retained until [date], with withdrawal requests
+handled through [contact]. May we proceed? May we record, if applicable?
+Adapt this script to your actual permissions and organisation policy before use.
+
+INTERVIEW GUIDE
+1. Tell me about the last time you [specific activity].
+2. What triggered it? Walk me through each step.
+3. What tools, people or workarounds did you use?
+4. Where did the process become difficult? Can you describe a specific example?
+5. What happened as a result? How did you respond?
+6. Is there something important we have missed?
+Use silence and neutral follow-ups. Avoid pitching, predicting purchases or
+introducing the solution you hope participants will endorse.
+
+OBSERVATION CHECKLIST
+Record context, date, participant pseudonym and consent scope.
+Capture sequence, tools, interruptions, handoffs and observed workarounds.
+Separate exact words, observed behaviour and your interpretation.
+Ask permission before collecting photos or documents. Remove unnecessary identifiers.
+Do not infer emotion, intent or a contradiction without contextual review.
+
+FACILITATOR REVIEW RUBRIC
+Score each criterion 0 absent, 1 partial, 2 adequate for the stated scope.
+Question quality: recent specific behaviour, neutral language, useful follow-ups.
+Traceability: exact source passages, source type, pseudonyms and context.
+Coverage: relevant stakeholder groups and critical assumptions considered.
+Interpretation: observations distinguished from hypotheses and inferred feelings.
+Limits: conflicting evidence, missing groups and next research actions disclosed.
+Total /10 guides feedback only. It is not a validated maturity or accreditation score.
+
+PARTICIPANT TASKS
+Assign interviewer, observer and evidence reviewer roles.
+Make assumptions explicit before generating concepts.
+Practise with synthetic material, labelled as practice.
+Collect permitted real evidence for research outputs.
+Select exact passages, draft synthesis claims and request review.
+Review gaps as a team; export a learning or research baseline with the right label.

@@ -1,0 +1,21 @@
+{
+  "version":"2.0",
+  "formats":{
+    "clarify":{"title":"Challenge clarification workshop","days":1,"hours":6,"outputs":["Clarified challenge","Preparation questions","Next-step plan"]},
+    "explore":{"title":"Challenge exploration workshop","days":1,"hours":6,"outputs":["Shared understanding","Focused challenge statement","Evidence collection plan"]},
+    "frame":{"title":"Problem framing and ideation workshop","days":2,"hours":12,"outputs":["Focused problem statement","Prioritised concept","Next-experiment plan"]},
+    "capability":{"title":"Design Thinking foundations and practice","days":2,"hours":12,"outputs":["Practice challenge statement","Practice prototype","Personal application plan"]},
+    "sprint":{"title":"Focused Design Thinking sprint","days":3,"hours":18,"outputs":["Focused problem","Rough prototype","Assumptions and feedback plan","Experiment owner"]},
+    "feedback":{"title":"Prototype and user-feedback sprint","days":5,"hours":30,"outputs":["Prototype","User feedback findings","Revised assumptions","Next experiment"]},
+    "existing_feedback":{"title":"Existing prototype feedback workshop","days":2,"hours":12,"outputs":["Feedback findings","Revised assumptions","Next experiment"]}
+  },
+  "audiences":{
+    "Corporate professional":{"context":"Customer or employee experience with cross-functional contributors","starting":"Experience workshop: 2 days / 12 hours. Prepared challenge: 3–5-day sprint."},
+    "Student":{"context":"Accessible real-world project with guided team practice","starting":"Project bootcamp: 3 days / 18 hours. Extended project: 24–30 facilitated hours over 4–6 weeks."},
+    "Startup founder/team":{"context":"User needs, uncertain assumptions and the next venture experiment","starting":"User problem sprint: 3 days / 18 hours. Confirmed feedback: 4–5 days."},
+    "Investor/incubator":{"context":"Founder capability or user-focused venture work. No investment evaluation or due diligence.","starting":"Cohort bootcamp: 2 days / 12 hours. Individual venture sprint: 3–5 days."},
+    "HR/L&D":{"context":"Innovation capability or a defined employee experience","starting":"Capability workshop: 2 days / 12 hours plus a 2-hour application review. Live challenge: 3–4 days."},
+    "Corporate management":{"context":"Leadership framing, decision boundaries, sponsor and frontline perspectives","starting":"Leadership alignment: 1 day / 6 hours. Working-team sprint: 3–5 days."},
+    "Institution management":{"context":"Student, faculty or staff experience with academic and operational constraints","starting":"Institutional experience workshop: 2 days / 12 hours. Prepared challenge: 3–4 days."}
+  }
+}
